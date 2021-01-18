@@ -5,3 +5,7 @@ a = np.array([1, 2, 3])
 a
 
 a.shape
+
+a.ndim
+
+a.size
