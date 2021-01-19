@@ -42,3 +42,7 @@ val = e[0, 1]
 
 val
 # %%
+center = e[1:3, 1:4]
+
+center
+# %%
